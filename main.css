@@ -78,7 +78,7 @@ body{
 }
 
 #profile{
-  width:17.5%;
+  width:60%;
 }
 
 @media screen and (min-width:768px) {
@@ -89,5 +89,8 @@ body{
 
   .navbar-inner {
     text-align:center;
+  }
+  #profile{
+    width:17.5%;
   }
 }
