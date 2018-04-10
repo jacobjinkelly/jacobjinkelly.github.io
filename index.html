@@ -1,60 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Jacob Kelly</title>
-    <meta name="description" content="">
-    <meta name="author" content="Jacob Kelly">
-    <meta property="og:title" content="Jacob Kelly">
-    <meta property="og:description" content="">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="">
-    <meta property="og:image" content="">
-    <link rel="icon" type="image/png" href="img/icon.png">
-    <link rel="icon" type="image/x-icon" href="img/icon.ico">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/hamburger.css">
-    <link rel="stylesheet" href="css/main.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-  </head>
-  <body>
-    <nav class="navbar navbar-default navbar-fixed-top" align="center">
-      <div class="container-fluid navbar-inner">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar">
-            <span class="icon-bar top-bar"></span>
-            <span class="icon-bar middle-bar"></span>
-            <span class="icon-bar bottom-bar"></span>
-          </button>
-        </div>
-        <div class="collapse navbar-collapse" id="myNavbar">
-          <ul class="nav navbar-nav">
-            <li><a href="#">About</a></li>
-            <li><a href="#">Projects</a></li>
-            <li><a href="#">Resume</a></li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-    <div class="container-fluid">
-      <div class="row" id="top">
-        <div class="col-xs-12">
-          <div class="centerColumn" id="profile">
-            <img src="img/jacob kelly.jpg" class="img-circle img-responsive" alt="Jacob Kelly">
-          </div>
-        </div>
-      </div>
-      <div class="row">
-        <h1 class="text-center">Jacob Kelly</h1>
-        <h3 class="text-center"><small>Software Developer</small></h3>
-        <h3 class="text-center"><small><span class="glyphicon glyphicon-map-marker"></span> Mississauga, Ontario</small></h3>
-      </div>
-      <div class="row">
+---
+layout: default
+---
+{% assign posts_count = paginator.posts | size %}
 
-      </div>
+<div class="home">
+  {% if posts_count > 0 %}
+    <div class="posts">
+      {% for post in paginator.posts %}
+        <div class="post py3">
+          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+          <span class="post-summary">
+            {% if post.summary %}
+              {{ post.summary }}
+            {% else %}
+              {{ post.excerpt }}
+            {% endif %}
+          </span>
+        </div>
+      {% endfor %}
     </div>
-  </body>
-</html>
+
+    {% include pagination.html %}
+  {% else %}
+    <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
+  {% endif %}
+</div>
