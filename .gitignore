@@ -1,2 +1,5 @@
 # OS Generate Files #
 .DS_Store
+
+# jekyll build files #
+_site/
