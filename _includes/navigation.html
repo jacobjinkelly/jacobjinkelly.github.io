@@ -2,12 +2,14 @@
 {% assign page_paths = site.header_pages | default: default_paths %}
 
 {% for path in page_paths %}
-    
+
     {% assign page = site.pages | where: "path", path | first %}
-    
+
     {% if page.title %}
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 
-    
+
 {% endfor %}
+
+<a href="{{ site.url }}">Blog</a>
