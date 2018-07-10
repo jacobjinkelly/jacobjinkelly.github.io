@@ -3,7 +3,7 @@ layout:       post
 title:        Learning to Sort with a Neural Network
 date:         2018-06-20
 summary:      Exploring how one might teach a neural net to sort numbers.
-categories:   category
+categories:   
 ---
 
 I recently came across an interesting challenge: sorting numbers with a neural
