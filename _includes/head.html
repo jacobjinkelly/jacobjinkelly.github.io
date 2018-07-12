@@ -39,6 +39,13 @@
 
     <!-- MathJax -->
     {% if site.enable_mathjax %}
+    <script type="text/x-mathjax-config" async>
+    MathJax.Hub.Config({
+      "HTML-CSS": {
+        fonts: ["Latin-Modern"]
+      }
+    });
+    </script>
     <script type="text/javascript" async
         src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
     </script>
