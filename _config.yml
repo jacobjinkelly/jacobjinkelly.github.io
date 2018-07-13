@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "https://jacobjinkelly.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
+ - blog/index.html
 
 # Google services
 google_verification:
@@ -50,7 +50,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-resume: true # modification
+resume: true
 github_username: jacobjinkelly
 reddit_username:
 bitbucket_username:
@@ -120,6 +120,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     4
+paginate_path: "/blog/page:num/"
 sass:
   style: compressed
 plugins:

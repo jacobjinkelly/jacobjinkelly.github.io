@@ -1,28 +1,30 @@
 ---
 layout: default
 ---
-{% assign posts_count = paginator.posts | size %}
 
-<div class="home">
-  {% if posts_count > 0 %}
-    <div class="posts">
-      {% for post in paginator.posts %}
-        <div class="post py3">
-          <p class="post-meta">{{ post.date | date: site.date_format }}</p>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-          <span class="post-summary">
-            {% if post.summary %}
-              {{ post.summary }}
-            {% else %}
-              {{ post.excerpt }}
-            {% endif %}
-          </span>
-        </div>
-      {% endfor %}
+<div class="post">
+  <article class="post-content">
+
+    <div style="text-align:center;">
+      <img src="{{ site.baseurl }}/images/about/me.jpg" alt="Jacob Kelly"
+        style="
+          width: 250px;
+          border-radius: 50%;
+        "/>
     </div>
 
-    {% include pagination.html %}
-  {% else %}
-    <h1 class='center'>{{ site.text.index.coming_soon }}</h1>
-  {% endif %}
+    <header class="post-header, page-header">
+      <h1 class="h2">Hi, I'm Jacob</h1>
+    </header>
+
+    I'm an undergrad at the University of Toronto studying Computer Science,
+    Mathematics, and Statistics. I'm broadly interested in machine learning research,
+    particularly anything to do with Fisher Information.
+    <br><br>
+    If you'd like to learn more about me, read my <a href="{{ site.url }}/blog">blog</a>, checkout
+    my <a href="https://github.com/{{ site.github_username }}" target="_blank">github</a>,
+    or have a look at my
+    <a href="{{ site.base_url }}/images/resume/Jacob-Kelly-Resume.pdf" target="_blank">resume</a>.
+    Also, sometimes I <a href="https://twitter.com/{{ site.twitter_username}}">tweet</a>.
+  </article>
 </div>
