@@ -1,4 +1,4 @@
-.social-icons-left, .social-icons-right {
+.social-icons-left, .social-icons-right, .social-icons-center {
   text-align: center;
   float: none;
 }
@@ -9,13 +9,13 @@
   width: 100%;
 }
 
-.social-icons a.fa {
+.social-icons a.fa, .social-icons a.ai {
   cursor: pointer;
   opacity: 0.8;
   padding: 0.2em;
 }
 
-.social-icons a.fa:hover {
+.social-icons a.fa:hover, social-icons a.ai:hover {
   opacity: 1;
 }
 
