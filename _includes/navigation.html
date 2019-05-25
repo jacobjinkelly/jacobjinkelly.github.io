@@ -1,6 +1,8 @@
 {% assign default_paths = site.pages | map: "path" %}
 {% assign page_paths = site.header_pages | default: default_paths %}
 
+<a href="{{ site.url }}">About</a>
+
 {% for path in page_paths %}
 
     {% assign page = site.pages | where: "path", path | first %}
