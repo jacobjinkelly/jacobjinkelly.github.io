@@ -14,9 +14,9 @@ many of my core beliefs, patterns of thought, and overall worldview to reading s
 
 My favourite books/ones which had an outsized influence on my thinking are in **bold**.
 
-[Recommendations](mailto:{{ site.email }}) are always welcome.
+<a href="mailto:{{ site.email }}" target="_blank">Recommendations</a> are always welcome.
 
-I highly recommend [Ryan Holiday's Reading List](https://ryanholiday.net/reading-newsletter/) for book recommendations.
+I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target="_blank">Ryan Holiday's Reading List</a> for book recommendations.
 
 ### 2019
 
@@ -25,7 +25,7 @@ I highly recommend [Ryan Holiday's Reading List](https://ryanholiday.net/reading
 1. *The Remains of the Day*, Kazuo Ishiguro
 1. *The Gene*, Siddhartha Mukherjee
 1. *The Emperor of All Maladies*, Siddhartha Mukherjee
-1. *The Person and the Situation*, Less Ross and Richard Nisbett
+1. *The Person and the Situation*, Lee Ross and Richard Nisbett
 1. **Finding Meaning in an Imperfect World**, Iddo Landau
 
 <hr />
