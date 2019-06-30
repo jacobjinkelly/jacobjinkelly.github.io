@@ -40,7 +40,7 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 1. *Einstein*, Walter Isaacson
 1. *The Laws of Medicine*, Siddhartha Mukherjee
-1. *A Mind at Play*, Jimmy Soni
+1. *A Mind at Play*, Jimmy Soni and Rob Goodman
 1. *The Way of Baseball*, Shawn Green
 1. *The Undoing Project*, Michael Lewis
 1. *Letters from a Stoic*, Seneca the Younger
