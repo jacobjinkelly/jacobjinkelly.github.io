@@ -20,6 +20,13 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2019
 
+1. *The Power Broker*, Robert Caro
+1. *Range*, David Epstein
+1. *Principles*, Ray Dalio
+1. *The Three Body Problem*, Liu Cixin
+1. *The Structure of Scientific Revolutions*, Thomas Kuhn
+1. *Thinking, Fast and Slow*, Daniel Kahneman
+1. *The Ph.D. Grind*, Philip Guo
 1. *In the Plex*, Steven Levy
 1. *The Idea Factory: Learning to Think at MIT*, Pepper White
 1. *The Remains of the Day*, Kazuo Ishiguro
@@ -120,6 +127,7 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2014 and earlier
 
+1. *If on a Winter's Night a Traveler*, Italo Calvino
 1. *The Opposite of Loneliness*, Marina Keegan
 1. *The Road*, Cormac McCarthy
 1. *All the Light We Cannot See*, Anthony Doerr
