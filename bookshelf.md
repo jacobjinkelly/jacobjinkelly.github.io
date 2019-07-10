@@ -20,19 +20,24 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2019
 
+1. *Difficult Conversations*, Douglas Stone, Bruce Patton and Sheila Heen
 1. *The Power Broker*, Robert Caro
+1. *The Laws of Human Nature*, Robert Greene
 1. *Range*, David Epstein
 1. *Principles*, Ray Dalio
 1. *The Three Body Problem*, Liu Cixin
+1. *In the Skin of a Lion*, Michael Ondaatje
 1. *The Structure of Scientific Revolutions*, Thomas Kuhn
 1. *Thinking, Fast and Slow*, Daniel Kahneman
 1. *The Ph.D. Grind*, Philip Guo
+1. *The Hungry Brain*, Stephan Guyenet
 1. *In the Plex*, Steven Levy
 1. *The Idea Factory: Learning to Think at MIT*, Pepper White
 1. *The Remains of the Day*, Kazuo Ishiguro
 1. *The Gene*, Siddhartha Mukherjee
 1. *The Emperor of All Maladies*, Siddhartha Mukherjee
 1. *The Person and the Situation*, Lee Ross and Richard Nisbett
+1. *We Need to Talk*, Celeste Headlee
 1. **Finding Meaning in an Imperfect World**, Iddo Landau
 
 <hr />
