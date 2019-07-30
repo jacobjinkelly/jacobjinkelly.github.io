@@ -20,10 +20,10 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2019
 
-- The World of Yesterday, Stefan Zweig
-- The Path to Power, Robert Caro
-- Models of My Life, Herbert Simon
-- Mastery, Robert Greene
+- *The World of Yesterday*, Stefan Zweig
+- *The Path to Power*, Robert Caro
+- *Models of My Life*, Herbert Simon
+- *Mastery*, Robert Greene
 - *Difficult Conversations*, Douglas Stone, Bruce Patton and Sheila Heen
 - *The Power Broker*, Robert Caro
 - *The Laws of Human Nature*, Robert Greene
