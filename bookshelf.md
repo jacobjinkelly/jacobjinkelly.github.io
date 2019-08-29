@@ -8,7 +8,7 @@ tags: bookshelf
 A list of books I've enjoyed reading over the years, in reverse chronological order
 of when I finished reading them.
 
-Many of these books have had a tremendous impact on me. Whether they introduced a few perspective,
+Many of these books have had a tremendous impact on me. Whether they introduced a fresh perspective,
 originally seeded an idea, or brought to my attention something I'd already been contemplating, I can trace
 many of my core beliefs, patterns of thought, and overall worldview to reading some of these books.
 
