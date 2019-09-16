@@ -20,6 +20,9 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2019
 
+- *Kitchen Confidential*, Anthony Bourdain
+- *Understanding Power*, Noam Chomsky
+- *I Will Teach You To Be Rich*, Ramit Sethi
 - *The World of Yesterday*, Stefan Zweig
 - *The Path to Power*, Robert Caro
 - *Models of My Life*, Herbert Simon
