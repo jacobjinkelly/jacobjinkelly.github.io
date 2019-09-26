@@ -5,8 +5,7 @@ permalink: /bookshelf/
 tags: bookshelf
 ---
 
-A list of books I've enjoyed reading over the years, in reverse chronological order
-of when I finished reading them.
+A list of books I've enjoyed reading over the years, in the order I finished reading them.
 
 Many of these books have had a tremendous impact on me. Whether they introduced a fresh perspective,
 originally seeded an idea, or brought to my attention something I'd already been contemplating, I can trace
@@ -20,6 +19,7 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2019
 
+- *Personal History*, Katharine Graham
 - *Kitchen Confidential*, Anthony Bourdain
 - *Understanding Power*, Noam Chomsky
 - *I Will Teach You To Be Rich*, Ramit Sethi
