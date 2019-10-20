@@ -19,6 +19,7 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2019
 
+- *Means of Ascent*, Robert Caro
 - *Personal History*, Katharine Graham
 - *Kitchen Confidential*, Anthony Bourdain
 - *Understanding Power*, Noam Chomsky
