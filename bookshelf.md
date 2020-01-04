@@ -17,6 +17,11 @@ My favourite books/ones which had an outsized influence on my thinking are in **
 
 I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target="_blank">Ryan Holiday's Reading List</a> for book recommendations.
 
+### 2020
+- *The Book of Why*, Judea Pearl and Dana Mackenzie
+- *The Lessons of History*, Will and Ariel Durant
+- *The Second Mountain*, David Brooks
+
 ### 2019
 
 - *Master of the Senate*, Robert Caro
