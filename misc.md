@@ -51,7 +51,7 @@ The ones I've taken so far at the University of Toronto.
 ### Third Year
 - STA347: Probability
 ([*David Brenner*](https://www.statistics.utoronto.ca/people/directories/all-faculty/david-brenner))
-- STA447: Stochastic Processes
+- STA447/2006: Stochastic Processes
 ([*Jeffrey Rosenthal*](http://probability.ca/jeff/))
 - CSC258: Computer Organization
 ([*Maziar Goudarzi*](http://sharif.edu/~goudarzi/))
