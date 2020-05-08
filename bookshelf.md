@@ -18,6 +18,7 @@ My favourite books/ones which had an outsized influence on my thinking are in **
 I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target="_blank">Ryan Holiday's Reading List</a> for book recommendations.
 
 ### 2020
+- *The New New Thing*, Michael Lewis
 - *Flash Boys*, Michael Lewis
 - *Talking to Strangers*, Malcolm Gladwell
 - *Hackers and Painters*, Paul Graham
