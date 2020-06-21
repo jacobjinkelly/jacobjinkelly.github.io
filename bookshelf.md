@@ -18,6 +18,7 @@ My favourite books/ones which had an outsized influence on my thinking are in **
 I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target="_blank">Ryan Holiday's Reading List</a> for book recommendations.
 
 ### 2020
+- **Exhalation**, Ted Chiang
 - *Becoming*, Michelle Obama
 - *Alexander Hamilton*, Ron Chernow
 - *The Social Transformation of American Medicine*, Paul Starr
