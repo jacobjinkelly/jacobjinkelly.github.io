@@ -160,6 +160,7 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 - *If on a Winter's Night a Traveler*, Italo Calvino
 - *The Opposite of Loneliness*, Marina Keegan
+- *The Pacific*, Hugh Ambrose
 - *The Road*, Cormac McCarthy
 - *All the Light We Cannot See*, Anthony Doerr
 - *Life of Pi*, Yann Martel
