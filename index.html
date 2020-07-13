@@ -78,6 +78,48 @@ $(document).ready(function(){
   </article>
 </div>
 
+<div id="Publications" class="post">
+    <article class="post-content">
+        <header class="post-header">
+          <h1 style="font-size: 2rem; margin-top: 0; margin-bottom: 0">Publications</h1>
+        </header>
+    </article>
+</div>
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+<tr>
+  <td valign="middle" width="25%">
+    <a href="https://arxiv.org/abs/2007.04504">
+      <img src="{{ site.base_url }}/images/papers/easynode.jpg">
+    </a>
+  </td>
+  <td valign="top" width="75%">
+
+    <h3>Learning Differential Equations that are Easy to Solve</h3>
+    <p>
+        Neural ODEs become expensive
+        to solve numerically as training progresses. We
+        introduce a differentiable surrogate for the time cost of standard
+        numerical solvers using higher-order derivatives of solution
+        trajectories. These derivatives are efficient to compute with Taylor-mode
+        automatic differentiation. Optimizing this additional objective trades
+        model performance against the time cost of solving the learned dynamics.
+    </p>
+    <p> <strong>Jacob Kelly*</strong>,
+        <a href="http://www.jessebett.com/">Jesse Bettencourt*</a>,
+        <a href="https://people.csail.mit.edu/mattjj/">Matthew James Johnson</a>,
+        <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
+    </p>
+    <p>
+        <a href="https://arxiv.org/abs/2007.04504">pdf</a> |
+        <a href="https://github.com/jacobjinkelly/easy-neural-ode">code</a> |
+        <a href="{{ site.url }}/papers/easynode.bib">bibtex</a>
+    </p>
+  </td>
+</tr>
+
+</table>
 
 <div id="Projects" class="post">
     <article class="post-content">
@@ -91,7 +133,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/bhk_drug_response/elasticnet.jpg">
+    <a href="{{ site.baseurl }}/images/projects/bhk_drug_response/poster.pdf">
+      <img src="{{ site.base_url }}/images/projects/bhk_drug_response/elasticnet.jpg">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -119,7 +163,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/sequencing/sequencing.png">
+    <a href="https://github.com/jacobjinkelly/sequencing">
+      <img src="{{ site.base_url }}/images/projects/sequencing/sequencing.png">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -142,7 +188,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/iclr2019/iclr2019.jpg">
+    <a href="https://github.com/UTMIST/ICLR-2019-Challenge">
+      <img src="{{ site.base_url }}/images/projects/iclr2019/iclr2019.jpg">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -168,7 +216,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/deepsort/deepsort.png">
+    <a href="https://github.com/jacobjinkelly/deepsort">
+      <img src="{{ site.base_url }}/images/projects/deepsort/deepsort.png">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -192,7 +242,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.baseurl }}/images/projects/pocketguide/pocketguide.png">
+    <a href="https://github.com/brunofalmeida/PocketGuide-Android">
+      <img src="{{ site.baseurl }}/images/projects/pocketguide/pocketguide.png">
+    </a>
   </td>
   <td valign="top" width="75%">
 
