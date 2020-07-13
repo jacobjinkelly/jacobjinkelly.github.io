@@ -17,16 +17,17 @@
   }
 
   .site-header a {
-    font-size: $h4;
+    font-size: $h3;
   }
 
   .site-header .site-title {
-    font-size: $h3;
+    font-size: 1.8rem;
     float: left;
+    // line-height: 2.1rem;
   }
 
   .site-header .site-nav {
-    float: right;
+    float: left;
     margin-top: .25rem;
   }
 

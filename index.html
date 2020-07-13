@@ -36,13 +36,14 @@ $(document).ready(function(){
     <div style="text-align:center;">
       <img src="{{ site.baseurl }}/images/about/me.jpg" alt="Jacob Kelly"
         style="
-          width: 250px;
+          width: 8rem;
           border-radius: 50%;
         "/>
     </div>
 
     <header class="post-header" style="text-align: center;">
-      <h1 class="h2">Hi, I'm Jacob</h1>
+      <h1 style="font-size: 1.8rem; margin-top: 0; margin-bottom: 0;">
+                  Jacob Kelly</h1>
     </header>
 
     <header class="site-header px2 px-responsive">
@@ -57,17 +58,18 @@ $(document).ready(function(){
     </header>
 
     <p>
-    I'm an undergrad in Computer Science, Mathematics, and Statistics at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>
+    I'm an undergrad in Computer Science, Math, and Stats at the <a href="https://www.utoronto.ca/" target="_blank">University of Toronto</a>
     working with <a href="https://www.cs.toronto.edu/~duvenaud/" target="_blank">David Duvenaud</a>
-    at the <a href="https://vectorinstitute.ai" target="_blank">Vector Institute</a> on extensions to neural ODEs.
-    Previously, I did computational biology research with
-    <a href="https://www.pmgenomics.ca/bhklab/" target="_blank">Benjamin Haibe-Kains</a>
-    at <a href="http://www.uhnresearch.ca/institutes/pm" target="_blank">Princess Margaret Cancer Research</a>.
-    <br><br>
+    at the <a href="https://vectorinstitute.ai" target="_blank">Vector Institute</a>.
     I'm interested in latent variable models, neural ODEs, variational inference, and genomics.
     My long term research goal is to combine machine learning with novel sources of data to develop new tools for
     improved diagnosis and treatment of patients.
-    <br><br>
+
+        <br><br>
+    Previously, I did computational biology research with
+    <a href="https://www.pmgenomics.ca/bhklab/" target="_blank">Benjamin Haibe-Kains</a>
+    at <a href="http://www.uhnresearch.ca/institutes/pm" target="_blank">Princess Margaret Cancer Research</a>.
+
     Some of my hobbies include running, rock climbing, and <a href="{{ site.url }}/bookshelf">reading</a>.
     I'm always open to meeting new people, feel free to <a href="mailto: {{ site.email }}" target="_blank">get in touch</a>
     if you'd like to chat.
@@ -76,11 +78,10 @@ $(document).ready(function(){
   </article>
 </div>
 
-
-<div id="Projects" class="post">
+<div id="Publications" class="post">
     <article class="post-content">
         <header class="post-header">
-          <h1 class="h2">Projects</h1>
+          <h1 style="font-size: 2rem; margin-top: 0; margin-bottom: 0">Publications</h1>
         </header>
     </article>
 </div>
@@ -89,7 +90,52 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/bhk_drug_response/elasticnet.jpg">
+    <a href="https://arxiv.org/abs/2007.04504">
+      <img src="{{ site.base_url }}/images/papers/easynode.jpg">
+    </a>
+  </td>
+  <td valign="top" width="75%">
+
+    <h3>Learning Differential Equations that are Easy to Solve</h3>
+    <p>
+        Neural ODEs become expensive
+        to solve numerically as training progresses. We
+        introduce a differentiable surrogate for the time cost of standard
+        numerical solvers using higher-order derivatives of solution
+        trajectories. These derivatives are efficient to compute with Taylor-mode
+        automatic differentiation. Optimizing this additional objective trades
+        model performance against the time cost of solving the learned dynamics.
+    </p>
+    <p> <strong>Jacob Kelly*</strong>,
+        <a href="http://www.jessebett.com/">Jesse Bettencourt*</a>,
+        <a href="https://people.csail.mit.edu/mattjj/">Matthew James Johnson</a>,
+        <a href="http://www.cs.toronto.edu/~duvenaud/">David Duvenaud</a>
+    </p>
+    <p>
+        <a href="https://arxiv.org/abs/2007.04504">pdf</a> |
+        <a href="https://github.com/jacobjinkelly/easy-neural-ode">code</a> |
+        <a href="{{ site.url }}/papers/easynode.bib">bibtex</a>
+    </p>
+  </td>
+</tr>
+
+</table>
+
+<div id="Projects" class="post">
+    <article class="post-content">
+        <header class="post-header">
+          <h1 style="font-size: 2rem; margin-top: 0; margin-bottom: 0">Projects</h1>
+        </header>
+    </article>
+</div>
+
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+<tr>
+  <td valign="middle" width="25%">
+    <a href="{{ site.baseurl }}/images/projects/bhk_drug_response/poster.pdf">
+      <img src="{{ site.base_url }}/images/projects/bhk_drug_response/elasticnet.jpg">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -117,7 +163,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/sequencing/sequencing.png">
+    <a href="https://github.com/jacobjinkelly/sequencing">
+      <img src="{{ site.base_url }}/images/projects/sequencing/sequencing.png">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -140,7 +188,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/iclr2019/iclr2019.jpg">
+    <a href="https://github.com/UTMIST/ICLR-2019-Challenge">
+      <img src="{{ site.base_url }}/images/projects/iclr2019/iclr2019.jpg">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -166,7 +216,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.base_url }}/images/projects/deepsort/deepsort.png">
+    <a href="https://github.com/jacobjinkelly/deepsort">
+      <img src="{{ site.base_url }}/images/projects/deepsort/deepsort.png">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -190,7 +242,9 @@ $(document).ready(function(){
 
 <tr>
   <td valign="middle" width="25%">
-    <img src="{{ site.baseurl }}/images/projects/pocketguide/pocketguide.png">
+    <a href="https://github.com/brunofalmeida/PocketGuide-Android">
+      <img src="{{ site.baseurl }}/images/projects/pocketguide/pocketguide.png">
+    </a>
   </td>
   <td valign="top" width="75%">
 
@@ -220,12 +274,12 @@ $(document).ready(function(){
 
 </table>
 
-<sup>†</sup>alphabetical order
+<p><sup>†</sup>alphabetical order</p>
 
 <div id="Teaching" class="post">
     <article class="post-content">
         <header class="post-header">
-          <h1 class="h2">Teaching</h1>
+          <h1 style="font-size: 2rem; margin-top: 0; margin-bottom: 0">Teaching</h1>
         </header>
     </article>
 </div>
