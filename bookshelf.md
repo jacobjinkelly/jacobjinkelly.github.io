@@ -168,5 +168,6 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 - *The Road*, Cormac McCarthy
 - *All the Light We Cannot See*, Anthony Doerr
 - *Life of Pi*, Yann Martel
+- *The Hunger Games*, Suzanne Collins
 - *Harry Potter*, J.K. Rowling
 - *The Chronicles of Narnia*, C.S. Lewis
