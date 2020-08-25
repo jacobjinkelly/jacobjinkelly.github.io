@@ -161,6 +161,7 @@ I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target=
 
 ### 2014 and earlier
 
+- *To Kill a Mockingbird*, Harper Lee
 - *If on a Winter's Night a Traveler*, Italo Calvino
 - *The Opposite of Loneliness*, Marina Keegan
 - *The Pacific*, Hugh Ambrose
