@@ -84,6 +84,15 @@ The ones I've taken so far at the University of Toronto.
     Luckily we only wrote code snippets in this course so we just did the fun bits.
 - CSC473: Advanced Algorithm Design
 ([*Aleksandar Nikolov*](http://www.cs.toronto.edu/~anikolov/))
+    - One of the best courses I've taken.
+    The focus is on randomized and approximation algorithms ([course website](http://www.cs.toronto.edu/~anikolov/CSC473W20/)). Such a breadth of topics is covered that it's hard to summarize.
+    - One random cool thing I learned about was [reservoir sampling](https://en.wikipedia.org/wiki/Reservoir_sampling),
+    though we didn't do much streaming algorithms in general. [Tim Vieira](https://timvieira.github.io/blog/post/2014/08/01/gumbel-max-trick-and-weighted-reservoir-sampling/) has a few posts about it.
+    - Locality sensitive hashing is cool.
+    - We learned some cool techniques like Chebyshev's inequality, Chernoff bounds, and complementary slackness in linear programming.
+    - The algorithms we covered solve foundational problems in a general way. We understand how these algorithms work
+    and their tradeoffs. They have at most a handful of parameters that need to be tuned according to the tradeoffs the user wants. Contrast this with machine learning, where often we want to solve a specific problem better than a general algorithm could by leveraging data. We don't understand a lot of machine learning algorithms nearly as well
+    or their tradeoffs with different parameters. I wonder how much this has to do with the fields being fundamentally different versus one simply having better develped theory.
 - APM462: Nonlinear Optimization
 ([*Jonathan Korman*](https://www.math.toronto.edu/jkorman/))
 - BIO130: Molecular and Cell Biology
