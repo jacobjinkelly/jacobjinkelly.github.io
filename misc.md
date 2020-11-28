@@ -121,6 +121,11 @@ Ones for which I've completed a significant portion and really enjoyed.
     - These lectures were amazing. I learned some new words in this course. It's also the first time
     I heard someone refer to "law" as "The Law", which makes it sound way cooler.
     - One thing I learned about was the difference between [positive freedom](https://en.wikipedia.org/wiki/Positive_liberty) and [negative freedom](https://en.wikipedia.org/wiki/Negative_liberty).
+- CSC494: Project in Computer Science
+    ([*David Duvenaud*](http://www.cs.toronto.edu/~duvenaud/))
+    - This was a chance for me to do research for course credit. It gave me the extra time I needed to build
+    a lot of necessary fundamental technical skills for running experiments. Eventually the work for this
+    project turned into the paper [Learning Differential Equations that are Easy to Solve](https://arxiv.org/abs/2007.04504).
 
 ### Second Year
 - MAT257: Analysis II
