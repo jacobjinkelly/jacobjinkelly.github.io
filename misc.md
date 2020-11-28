@@ -95,6 +95,11 @@ The ones I've taken so far at the University of Toronto.
     or their tradeoffs with different parameters. I wonder how much this has to do with the fields being fundamentally different versus one simply having better develped theory.
 - APM462: Nonlinear Optimization
 ([*Jonathan Korman*](https://www.math.toronto.edu/jkorman/))
+    - We learned some basics about convexity (zeroth, first, and second order conditions).
+    I wish we'd done more, since it seems like it has the right tradeoff between being tractable and becoming useful
+    (at least according to [Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/)).
+    - We learned about variational optimization, which usually means minimizing an integral over
+    a space of functions instead of over vectors. It seems cool but probably only useful for physics.
 - BIO130: Molecular and Cell Biology
 ([*Melody Neumann*](https://csb.utoronto.ca/melody-neumann/) and
 [*Daphne Goring*](http://labs.csb.utoronto.ca/goring/))
