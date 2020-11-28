@@ -180,6 +180,8 @@ Ones for which I've completed a significant portion and really enjoyed.
 - CSC207: Software Design
 ([*Lindsey Shorser*](https://www.math.toronto.edu/cms/people/faculty/shorser-lindsey/) and
 [*Jaisie Sin*](https://www.jaisiesin.com/))
+    - One random thing I learned in this course was about underflow and overflow in floating point.
+    - Besides this, I think the course would have been more interesting if there was a larger project component.
 - CSC240: Enriched Introduction to Theory of Computation
 ([*Faith Ellen*](http://www.cs.toronto.edu/~faith/))
     - The most challenging course I've taken. Heavy emphasis on problem-solving
