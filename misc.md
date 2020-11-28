@@ -135,6 +135,8 @@ Ones for which I've completed a significant portion and really enjoyed.
 ([*Mark Ebden*](http://www.mebden.com/))
 - CSC209: C & Systems Programming
 ([*Michelle Craig*](https://michellecraig.github.io/))
+    - I had a lot of fun in this course. It was my first chance to do some low-level programming. It can be very stressful and frustrating, but also rewarding.
+    - I also learned to be comfortable in shell. I can't understate how useful this skill was.
 - CSC265: Enriched Data Structures and Analysis
 ([*Aleksandar Nikolov*](http://www.cs.toronto.edu/~anikolov/))
     - In addition to standard data structures and algorithms, this course covered adversary arguments to prove lower bounds on problem complexity, and the [potential method](https://en.wikipedia.org/wiki/Potential_method) for analyzing amortized complexity.
