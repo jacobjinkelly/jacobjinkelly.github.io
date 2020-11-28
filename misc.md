@@ -172,6 +172,9 @@ Ones for which I've completed a significant portion and really enjoyed.
     the real numbers using [dedekind cuts](https://en.wikipedia.org/wiki/Dedekind_cut) in the first month.
 - CSC148: Introduction to Computer Science
 ([*David Liu*](https://www.cs.toronto.edu/~david/))
+    - I had tried and failed to teach myself about recursion and binary trees before taking this course.
+    This course taught me those concepts really well, and moreover I was surprised how easy it felt to learn them.
+    - I meta-learned that learning new things is much more efficient when you can find a good resource to learn it from rather than just trying think really hard about it for a long time and getting frustrated.
 - CSC165: Mathematical Expression and Reasoning for Computer Science
 ([*Danny Heap*](http://www.cs.toronto.edu/~heap/))
 - CSC207: Software Design
