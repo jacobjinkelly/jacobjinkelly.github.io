@@ -133,6 +133,7 @@ Ones for which I've completed a significant portion and really enjoyed.
     - Covered some analysis to show existence and uniqueness theorems for ODEs, then switched to a dynamical systems perspective including phase plots, Lyapunov functions, stability of solutions, and bifurcations.
 - STA257: Probability and Statistics I
 ([*Mark Ebden*](http://www.mebden.com/))
+    - I learned how to compute covariance. I also learned the difference between mutually-independent and conditionally-independent. I also learned about [moment generating functions](https://en.wikipedia.org/wiki/Moment-generating_function).
 - CSC209: C & Systems Programming
 ([*Michelle Craig*](https://michellecraig.github.io/))
     - I had a lot of fun in this course. It was my first chance to do some low-level programming. It can be very stressful and frustrating, but also rewarding.
