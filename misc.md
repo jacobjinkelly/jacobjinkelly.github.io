@@ -18,8 +18,13 @@ Ones for which I've completed a significant portion and really enjoyed.
 
 - [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing)
 ([*Ben Langmead*](http://www.langmead-lab.org/))
-    - This course does a great job in motivating what otherwise might be dry material
-    by linking it to applications in improving sequencing technology and impacting genomics.
+    - This course begins by explaining how sequencing actually works. According to
+    [James Somers](https://jsomers.net/i-should-have-loved-biology/),
+    understanding the methods, like sequencing, used to study biology is a more
+    effective way to acquire a "reading knowledge" of biology.
+    - The course focuses on string algorithms. Presenting this content in the
+    context of impacting genomics made it far more interesting than if it was
+    presented abstractly.
 - [Human Behavioural Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D&app=desktop)
 ([*Robert Sapolsky*](https://en.wikipedia.org/wiki/Robert_Sapolsky))
     - The best lecturer I've seen. He does an amazing job of crafting a narrative
