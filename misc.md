@@ -56,6 +56,14 @@ The ones I've taken so far at the University of Toronto.
 ### Third Year
 - STA347: Probability
 ([*David Brenner*](https://www.statistics.utoronto.ca/people/directories/all-faculty/david-brenner))
+    - In this course we proved that you can uniformly sample a real number on an
+    interval by uniformly sampling the bits of that number (or a digit in whichever base you like),
+    to whatever precision you like.
+    In other words, we constructed the continuous uniform distribution from the discrete uniform distribution.
+    - Besides this result being beautiful in its own right, it suggests an implementation
+    of uniform sampling on a computer (though I'm not sure if it's practical).
+    - In general the theme of the course was constructing complex distributions from simpler ones and
+    proving things "structurally" (instead of manually calculating expectations by integrating).
 - STA447/2006: Stochastic Processes
 ([*Jeffrey Rosenthal*](http://probability.ca/jeff/))
 - CSC258: Computer Organization
