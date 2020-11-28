@@ -14,8 +14,6 @@ tags: misc
 
 ## Online Courses
 
-Ones for which I've completed a significant portion and really enjoyed.
-
 - [Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing)
 ([*Ben Langmead*](http://www.langmead-lab.org/))
     - This course begins by explaining how sequencing actually works. According to
