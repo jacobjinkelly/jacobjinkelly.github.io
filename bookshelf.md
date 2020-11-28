@@ -13,7 +13,10 @@ many of my core beliefs, patterns of thought, and overall worldview to reading s
 
 My favourites are in **bold**. <a href="mailto:{{ site.email }}" target="_blank">Recommendations</a> are always welcome.
 
-I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target="_blank">Ryan Holiday's Reading List</a> for book recommendations.
+Some other recommended reading lists:
+- [Ryan Holiday](https://ryanholiday.net/reading-newsletter/)
+- [Patrick Collison](https://patrickcollison.com/bookshelf)
+- [James Somers](https://jsomers.net/#books)
 
 ### 2020
 - *War and Peace*, Leo Tolstoy
