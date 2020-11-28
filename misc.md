@@ -115,6 +115,9 @@ The ones I've taken so far at the University of Toronto.
     to make the "z" sound.
 - LIN102: Introduction to Linguistics: Sentence Structure and Meaning
 ([*Susana Bejar*](https://www.linguistics.utoronto.ca/people/directories/all-faculty/susana-b%C3%A9jar))
+    - This course focused on mathematizing language, which I found not very exciting as the concepts
+    were things that I'd already learned in my math and CS courses, whereas I was looking to learn things
+    radically different from my normal coursework. But most people I know seemed to really enjoy this course!
 - PHL271: Law and Morality
 ([*Sophia Moreau*](https://www.law.utoronto.ca/faculty-staff/full-time-faculty/sophia-reibetanz-moreau))
 
