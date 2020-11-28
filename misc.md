@@ -177,6 +177,7 @@ Ones for which I've completed a significant portion and really enjoyed.
     - I meta-learned that learning new things is much more efficient when you can find a good resource to learn it from rather than just trying think really hard about it for a long time and getting frustrated.
 - CSC165: Mathematical Expression and Reasoning for Computer Science
 ([*Danny Heap*](http://www.cs.toronto.edu/~heap/))
+    - One cool thing we learned was connecting number theory concepts to applications to [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) in cryptography.
 - CSC207: Software Design
 ([*Lindsey Shorser*](https://www.math.toronto.edu/cms/people/faculty/shorser-lindsey/) and
 [*Jaisie Sin*](https://www.jaisiesin.com/))
