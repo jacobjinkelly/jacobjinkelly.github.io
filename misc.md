@@ -155,6 +155,7 @@ Ones for which I've completed a significant portion and really enjoyed.
 ### First Year
 - MAT240: Algebra I
 ([*Eckhard Meinrenken*](http://www.math.toronto.edu/mein/))
+    - We used the book Linear Algebra by Insel, Spence, and Friedberg.
     - Proofs in linear algebra are all so clean. This was a great way to be introduced to proofs.
 - MAT247: Algebra II
 ([*Stephen Kudla*](http://www.math.toronto.edu/~skudla/))
