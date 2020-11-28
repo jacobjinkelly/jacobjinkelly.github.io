@@ -158,6 +158,7 @@ Ones for which I've completed a significant portion and really enjoyed.
     - Proofs in linear algebra are all so clean. This was a great way to be introduced to proofs.
 - MAT247: Algebra II
 ([*Stephen Kudla*](http://www.math.toronto.edu/~skudla/))
+    - We used the book Linear Algebra by Insel, Spence, and Friedberg.
     - We learned about the [Jordan Canonical Form](https://en.wikipedia.org/wiki/Jordan_normal_form), which was
     super confusing and hard to compute. But then it came up later in my ODEs class which was cool.
     - We also learned the [Cayley-Hamilton theorem](https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem),
