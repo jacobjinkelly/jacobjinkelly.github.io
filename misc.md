@@ -158,6 +158,11 @@ Ones for which I've completed a significant portion and really enjoyed.
     - Proofs in linear algebra are all so clean. This was a great way to be introduced to proofs.
 - MAT247: Algebra II
 ([*Stephen Kudla*](http://www.math.toronto.edu/~skudla/))
+    - We learned about the [Jordan Canonical Form](https://en.wikipedia.org/wiki/Jordan_normal_form), which was
+    super confusing and hard to compute. But then it came up later in my ODEs class which was cool.
+    - We also learned the [Cayley-Hamilton theorem](https://en.wikipedia.org/wiki/Cayley%E2%80%93Hamilton_theorem),
+    which was super weird. I think it has a lot of interesting applications but I haven't encountered one myself outside
+    this class.
 - MAT157: Analysis I
 ([*Joe Repka*](http://www.math.utoronto.ca/~repka/))
     - Closely follows Michael Spivak's Calculus. This course was my first introduction to
