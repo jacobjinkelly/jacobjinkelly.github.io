@@ -142,6 +142,12 @@ Ones for which I've completed a significant portion and really enjoyed.
 ([*Aleksandar Nikolov*](http://www.cs.toronto.edu/~anikolov/))
     - In addition to standard data structures and algorithms, this course covered adversary arguments to prove lower bounds on problem complexity, and the [potential method](https://en.wikipedia.org/wiki/Potential_method) for analyzing amortized complexity.
 - CSC373: Algorithm Design, Analysis & Complexity ([*François Pitt*](http://www.cs.toronto.edu/~fpitt/))
+    - A great lecturer. This was another instance where I learned much better than when I had tried to teach myself.
+    Preparing for tests in this course felt more useful than other courses, since in many ways it's similar to preparing
+    for technical interviews.
+    - We spent some time learning about P and NP. I feel like it's only worthwhile to
+    learn that content if you spend an entire semester digging into the details. Instead,
+    I wish we'd learned about something else like [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform).
 - CSC411/2515: [Machine Learning and Data Mining](http://www.cs.toronto.edu/~rgrosse/courses/csc411_f18/)
 ([*Roger Grosse*](http://www.cs.toronto.edu/~rgrosse/))
     - Focus on using a mathematical framework to understand classical algorithms leading to principled generalizations (e.g. k-means to EM algorithm, regularization as MAP estimation).
