@@ -51,8 +51,6 @@ Ones for which I've completed a significant portion and really enjoyed.
 
 ## Courses
 
-The ones I've taken so far at the University of Toronto.
-
 ### Third Year
 - STA347: Probability
 ([*David Brenner*](https://www.statistics.utoronto.ca/people/directories/all-faculty/david-brenner))
