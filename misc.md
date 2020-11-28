@@ -66,6 +66,11 @@ The ones I've taken so far at the University of Toronto.
     proving things "structurally" (instead of manually calculating expectations by integrating).
 - STA447/2006: Stochastic Processes
 ([*Jeffrey Rosenthal*](http://probability.ca/jeff/))
+    - The course focused on Markov chains. Many of the results  about convergence are subtle and
+    hard to understand intuitively without a grasp of real analysis which I did not have.
+    - We briefly talked about Brownian motion and other continuous time stochastic processes,
+    but once again, these were hard to get a handle of without the proper background in analysis.
+    - I need to take real analysis to understand these things!
 - CSC258: Computer Organization
 ([*Maziar Goudarzi*](http://sharif.edu/~goudarzi/))
 - CSC473: Advanced Algorithm Design
