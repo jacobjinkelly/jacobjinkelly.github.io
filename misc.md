@@ -73,6 +73,15 @@ The ones I've taken so far at the University of Toronto.
     - I need to take real analysis to understand these things!
 - CSC258: Computer Organization
 ([*Maziar Goudarzi*](http://sharif.edu/~goudarzi/))
+    - This course is an ECE course that CS students are required to take, and most dread it.
+    While it has a heavy workload, I found the course fascinating.
+    - Each week we would learn about the implementation of a circuit component, and the
+    next week that circuit component would become a black box which we would use to construct the next circuit
+    component. For example, we started with transistors and eventually learned about flip-flop circuits.
+    - Programming in Verilog was unintuitive. It's a language that's basically HTML for circuits, but designed to
+    have an imperative feel like C or Python. We also learned some Assembly which was cool in the way
+    that all low-level programming languages are, but also not fun for the same reasons.
+    Luckily we only wrote code snippets in this course so we just did the fun bits.
 - CSC473: Advanced Algorithm Design
 ([*Aleksandar Nikolov*](http://www.cs.toronto.edu/~anikolov/))
 - APM462: Nonlinear Optimization
