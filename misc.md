@@ -157,6 +157,7 @@ The ones I've taken so far at the University of Toronto.
 ### First Year
 - MAT240: Algebra I
 ([*Eckhard Meinrenken*](http://www.math.toronto.edu/mein/))
+    - Proofs in linear algebra are all so clean. This was a great way to be introduced to proofs.
 - MAT247: Algebra II
 ([*Stephen Kudla*](http://www.math.toronto.edu/~skudla/))
 - MAT157: Analysis I
