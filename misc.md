@@ -103,6 +103,10 @@ The ones I've taken so far at the University of Toronto.
 - BIO130: Molecular and Cell Biology
 ([*Melody Neumann*](https://csb.utoronto.ca/melody-neumann/) and
 [*Daphne Goring*](http://labs.csb.utoronto.ca/goring/))
+    - My first course in biology since the 10th grade. I went to [Con. Hall](https://en.wikipedia.org/wiki/Convocation_Hall_(University_of_Toronto)) for the first time for lectures for this class.
+    - It was so much fun diving into the details and learning about biology. Surprisingly, I found the labs
+    very useful. They gave me a taste of how knowledge is acquired in biology, which makes it much
+    easier to understand what is known in biology.
 - LIN101: Introduction to Linguistics: Sound Structure
 ([*Peter Jurgec*](http://www.jurgec.net/))
 - LIN102: Introduction to Linguistics: Sentence Structure and Meaning
