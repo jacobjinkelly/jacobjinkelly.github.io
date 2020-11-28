@@ -11,9 +11,7 @@ Many of these books have had a tremendous impact on me. Whether they introduced 
 originally seeded an idea, or brought to my attention something I'd already been contemplating, I can trace
 many of my core beliefs, patterns of thought, and overall worldview to reading some of these books.
 
-My favourite books/ones which had an outsized influence on my thinking are in **bold**.
-
-<a href="mailto:{{ site.email }}" target="_blank">Recommendations</a> are always welcome.
+My favourites are in **bold**. <a href="mailto:{{ site.email }}" target="_blank">Recommendations</a> are always welcome.
 
 I highly recommend <a href="https://ryanholiday.net/reading-newsletter/" target="_blank">Ryan Holiday's Reading List</a> for book recommendations.
 
