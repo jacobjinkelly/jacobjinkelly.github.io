@@ -109,6 +109,10 @@ The ones I've taken so far at the University of Toronto.
     easier to understand what is known in biology.
 - LIN101: Introduction to Linguistics: Sound Structure
 ([*Peter Jurgec*](http://www.jurgec.net/))
+    - Peter Jurgec is a very engaging lecturer. This course was full of moments where we would
+    learn a concept that formalized something we already had an intuitive feel for. One very simple
+    example was that the only difference between the "s" and "z" sounds is that we engage our vocal chords
+    to make the "z" sound.
 - LIN102: Introduction to Linguistics: Sentence Structure and Meaning
 ([*Susana Bejar*](https://www.linguistics.utoronto.ca/people/directories/all-faculty/susana-b%C3%A9jar))
 - PHL271: Law and Morality
