@@ -13,10 +13,11 @@ many of my core beliefs, patterns of thought, and overall worldview to reading s
 
 My favourites are in **bold**. <a href="mailto:{{ site.email }}" target="_blank">Recommendations</a> are always welcome.
 
-Some other recommended reading lists:
+Some other reading lists I admire:
 - [Ryan Holiday](https://ryanholiday.net/reading-newsletter/)
 - [Patrick Collison](https://patrickcollison.com/bookshelf)
 - [James Somers](https://jsomers.net/#books)
+- [Brian Hie](http://brianhie.com/bookshelf)
 
 ### 2020
 - *War and Peace*, Leo Tolstoy
