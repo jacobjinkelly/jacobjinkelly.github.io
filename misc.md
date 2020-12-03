@@ -199,6 +199,9 @@ tags: misc
 ([*Faith Ellen*](http://www.cs.toronto.edu/~faith/))
     - The most challenging course I've taken. Heavy emphasis on problem-solving
     techniques and thinking deeply combined with rigorous proofs (including formal proofs.)
+    - For one problem set we were given the
+    [Boyer-Moore majority voting algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_majority_vote_algorithm)
+    and had to come up with and prove our own invariants to show correctness.
 - CCR199: Common Humanity
 ([*John Noyes*](https://german.utoronto.ca/john-k-noyes/))
     - A small seminar course looking at the idea of common humanity throughout
