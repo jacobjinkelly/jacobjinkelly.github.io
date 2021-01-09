@@ -39,7 +39,7 @@ Some other reading lists I admire:
 
 **Skunk Works**, Ben Rich and Leo Janos
 
-**Exhalation**, Ted Chiang
+**Exhalation\***, Ted Chiang
 
 **Becoming**, Michelle Obama
 
@@ -127,7 +127,7 @@ Some other reading lists I admire:
 
 **We Need to Talk**, Celeste Headlee
 
-**Finding Meaning in an Imperfect World**, Iddo Landau
+**Finding Meaning in an Imperfect World\***, Iddo Landau
 
 
 <hr />
@@ -158,7 +158,7 @@ Some other reading lists I admire:
 
 **The Big Picture**, Sean Carroll
 
-**Stories of Your Life and Others**, Ted Chiang
+**Stories of Your Life and Others\***, Ted Chiang
 
 **Darwin: Portrait of a Genius**, Paul Johnson
 
@@ -182,7 +182,7 @@ Some other reading lists I admire:
 
 **Poor Charlie's Almanack**, Charlie Munger
 
-**Deep Work**, Cal Newport
+**Deep Work\***, Cal Newport
 
 **Complications**, Atul Gawande
 
@@ -221,7 +221,7 @@ Some other reading lists I admire:
 
 **The Pleasures and Sorrows of Work**, Alain de Botton
 
-**On The Shortness of Life**, Seneca the Younger
+**On The Shortness of Life\***, Seneca the Younger
 
 **When Breath Becomes Air**, Paul Kalanithi
 
@@ -231,13 +231,13 @@ Some other reading lists I admire:
 
 **Lean In**, Sheryl Sandberg
 
-**Brave New World**, Aldous Huxley
+**Brave New World\***, Aldous Huxley
 
 **Surely You're Joking Mr. Feynman**, Richard Feynman
 
 **1984**, George Orwell
 
-**Man's Search for Meaning**, Viktor Frankl
+**Man's Search for Meaning\***, Viktor Frankl
 
 **On The Move: A Life**, Oliver Sacks
 
@@ -251,7 +251,7 @@ Some other reading lists I admire:
 
 **How Will You Measure Your Life?**, Clayton Christensen
 
-**Quiet**, Susan Cain
+**Quiet\***, Susan Cain
 
 **Stop Stealing Dreams**, Seth Godin
 
@@ -262,9 +262,9 @@ Some other reading lists I admire:
 
 **Dreaming in Code**, Scott Rosenberg
 
-**Zero To One**, Peter Thiel and Blake Masters
+**Zero To One\***, Peter Thiel and Blake Masters
 
-**Elon Musk**, Ashlee Vance
+**Elon Musk\***, Ashlee Vance
 
 **The Reluctant Fundamentalist**, Mohsin Hamid
 
