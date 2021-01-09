@@ -20,6 +20,7 @@ Some other reading lists I admire:
 - [Brian Hie](http://brianhie.com/bookshelf)
 
 ### 2020
+- *Brave Men*, Ernie Pyle
 - *Dune*, Frank Herbert
 - *War and Peace*, Leo Tolstoy
 - *The Years That Matter Most*, Paul Tough
