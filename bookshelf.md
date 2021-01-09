@@ -62,6 +62,8 @@ Some other reading lists I admire:
 
 *The Second Mountain*, David Brooks
 
+<hr />
+
 ### 2019
 
 *Master of the Senate*, Robert Caro
@@ -301,4 +303,3 @@ Some other reading lists I admire:
 *Harry Potter*, J.K. Rowling
 
 *The Chronicles of Narnia*, C.S. Lewis
-
