@@ -19,8 +19,13 @@ Some other reading lists I admire:
 - [James Somers](https://jsomers.net/#books)
 - [Brian Hie](http://brianhie.com/bookshelf)
 
-### 2020
+### 2021
+
 *Brave Men*, Ernie Pyle
+
+<hr />
+
+### 2020
 
 *Dune*, Frank Herbert
 
