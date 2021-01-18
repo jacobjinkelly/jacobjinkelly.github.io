@@ -5,11 +5,8 @@ permalink: /bookshelf/
 tags: bookshelf
 ---
 
-A list of books I've enjoyed over the years, in the order I finished reading them.
-
-It lets me keep track of some ideas which have influenced me, and helps to mark the passage of time.
-
-My favourites are indicated with **\***. <a href="mailto:{{ site.email }}" target="_blank">Recommendations</a> are always welcome.
+A list of books I've enjoyed over the years, in the order I finished reading them. This list helps
+me keep track of some ideas which have influenced me, and helps me mark the passage of time. My favourites are indicated with **\***. <a href="mailto:{{ site.email }}" target="_blank">Recommendations</a> are always welcome.
 
 Some other reading lists I admire:
 - [Ryan Holiday](https://ryanholiday.net/reading-newsletter/)
