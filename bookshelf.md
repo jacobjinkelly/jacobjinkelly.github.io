@@ -16,6 +16,8 @@ Some other reading lists I admire:
 
 ### 2021
 
+**A Promised Land**, Barack Obama
+
 **Dreams From My Father**, Barack Obama
 
 **Brave Men**, Ernie Pyle
