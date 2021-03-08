@@ -16,6 +16,8 @@ Some other reading lists I admire:
 
 ### 2021
 
+**Liar's Poker**, Michael Lewis
+
 **A Promised Land**, Barack Obama
 
 **Dreams From My Father**, Barack Obama
