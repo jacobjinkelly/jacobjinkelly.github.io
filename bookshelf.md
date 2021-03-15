@@ -16,6 +16,8 @@ Some other reading lists I admire:
 
 ### 2021
 
+**Privilege**, Shamus Khan
+
 **The Privileged Poor**, Anthony Abraham Jack
 
 **Liar's Poker**, Michael Lewis
