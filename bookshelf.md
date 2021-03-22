@@ -16,6 +16,8 @@ Some other reading lists I admire:
 
 ### 2021
 
+**Whatever It Takes**, Paul Tough
+
 **Privilege**, Shamus Khan
 
 **The Privileged Poor**, Anthony Abraham Jack
