@@ -157,11 +157,26 @@ $(document).ready(function(){
 </tr>
 
 
-<tr>
+<tr onmouseout="taynode_stop()" onmouseover="taynode_start()">
   <td valign="middle" width="25%">
     <a href="https://arxiv.org/abs/2007.04504">
-      <img src="{{ site.base_url }}/images/papers/easynode.jpg">
+      <div style="position: relative;">
+        <div id="taynode_image" style="position: absolute; transition: opacity .2s ease-in-out;-webkit-transition: opacity .2s ease-in-out;-moz-transition: opacity .2s ease-in-out;-o-transition: opacity .2s ease-in-out;">
+          <img src="{{ site.base_url }}/images/papers/easynode_hover.jpg">
+        </div>
+        <img src="{{ site.base_url }}/images/papers/easynode.jpg">
+      </div>
     </a>
+    <script type="text/javascript">
+      function taynode_start() {
+        document.getElementById("taynode_image").style.opacity = "1";
+      }
+
+      function taynode_stop() {
+        document.getElementById("taynode_image").style.opacity = "0";
+      }
+      taynode_stop()
+    </script>
   </td>
   <td valign="top" width="75%">
 
