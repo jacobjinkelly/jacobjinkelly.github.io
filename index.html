@@ -91,11 +91,26 @@ $(document).ready(function(){
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
-<tr>
+<tr onmouseout="vera_stop()" onmouseover="vera_start()">
   <td valign="middle" width="25%">
     <a href="https://arxiv.org/abs/2010.04230">
-      <img src="{{ site.base_url }}/images/papers/no_mcmc_ebm.png">
+      <div style="position: relative;">
+        <div id="vera_image" style="position: absolute; transition: opacity .2s ease-in-out;-webkit-transition: opacity .2s ease-in-out;-moz-transition: opacity .2s ease-in-out;-o-transition: opacity .2s ease-in-out;">
+          <img src="{{ site.base_url }}/images/papers/no_mcmc_ebm_hover.png">
+        </div>
+        <img src="{{ site.base_url }}/images/papers/no_mcmc_ebm.png">
+      </div>
     </a>
+    <script type="text/javascript">
+      function vera_start() {
+        document.getElementById("vera_image").style.opacity = "1";
+      }
+
+      function vera_stop() {
+        document.getElementById("vera_image").style.opacity = "0";
+      }
+      vera_stop()
+    </script>
   </td>
   <td valign="top" width="75%">
 
