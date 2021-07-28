@@ -16,6 +16,8 @@ Some other reading lists I admire:
 
 ### 2021
 
+**Flash Boys Not So Fast**, Peter Kováč
+
 **Parting the Waters**, Taylor Branch
 
 **Pride and Prejudice**, Jane Austen
