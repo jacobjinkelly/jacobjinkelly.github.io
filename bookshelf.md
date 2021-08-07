@@ -16,6 +16,10 @@ Some other reading lists I admire:
 
 ### 2021
 
+**The Bomber Mafia**, Malcolm Gladwell
+
+**The Education of an Idealist**, Samantha Power
+
 **Flash Boys Not So Fast**, Peter Kováč
 
 **Parting the Waters**, Taylor Branch
