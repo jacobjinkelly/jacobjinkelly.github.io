@@ -16,6 +16,8 @@ Some other reading lists I admire:
 
 ### 2021
 
+**Freedom's Forge**, Arthur Herman
+
 **The Bomber Mafia**, Malcolm Gladwell
 
 **The Education of an Idealist**, Samantha Power
