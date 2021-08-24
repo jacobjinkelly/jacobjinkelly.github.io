@@ -16,6 +16,10 @@ Some other reading lists I admire:
 
 ### 2021
 
+**Doing the Impossible**, Arthur L. Slotkin
+
+**The Idea Factory**, Jon Gertner
+
 **Freedom's Forge**, Arthur Herman
 
 **The Bomber Mafia**, Malcolm Gladwell
