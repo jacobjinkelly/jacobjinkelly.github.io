@@ -16,6 +16,8 @@ Some other reading lists I admire:
 
 ### 2021
 
+**Letters to a Young Scientist**, Edward O. Wilson
+
 **Doing the Impossible**, Arthur L. Slotkin
 
 **The Idea Factory**, Jon Gertner
