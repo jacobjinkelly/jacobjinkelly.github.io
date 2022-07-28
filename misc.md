@@ -88,7 +88,7 @@ tags: misc
     - We learned some cool techniques like Chebyshev's inequality, Chernoff bounds, and complementary slackness in linear programming.
     - The algorithms we covered solve foundational problems in a general way. We understand how these algorithms work
     and their tradeoffs. They have at most a handful of parameters that need to be tuned according to the tradeoffs the user wants. Contrast this with machine learning, where often we want to solve a specific problem better than a general algorithm could by leveraging data. We don't understand a lot of machine learning algorithms nearly as well
-    or their tradeoffs with different parameters. I wonder how much this has to do with the fields being fundamentally different versus one simply having better develped theory.
+    or their tradeoffs with different parameters. I wonder how much this has to do with the fields being fundamentally different versus one simply having better developed theory.
 - APM462: Nonlinear Optimization
 ([*Jonathan Korman*](https://www.math.toronto.edu/jkorman/))
     - We learned some basics about convexity (zeroth, first, and second order conditions).
