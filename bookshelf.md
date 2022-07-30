@@ -14,6 +14,16 @@ Some other reading lists I admire:
 - [James Somers](https://jsomers.net/#books)
 - [Brian Hie](http://brianhie.com/bookshelf)
 
+### 2022
+
+**Tiger Woods**, Armen Keteyian and Jeff Benedict
+
+**The Big Short**, Michael Lewis
+
+**The Hobbit**, J. R. R. Tolkien
+
+**Never Let Me Go**, Kazuo Ishiguro
+
 ### 2021
 
 **Letters to a Young Scientist**, Edward O. Wilson
