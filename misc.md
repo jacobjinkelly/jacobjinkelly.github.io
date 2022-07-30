@@ -49,6 +49,42 @@ tags: misc
 
 ## Courses
 
+### Fourth Year
+- ECE1502: Information Theory ([*Frank Kschischang*](https://www.comm.utoronto.ca/frank/))
+    - This was the only engineering course I took during my undergrad.
+    While this was essentially a math course, I think engineering takes a unique perspective distinct from what I've seen in other math courses.
+    For example, many of the homework problems had unstated assumptions you needed to use in your solution. 
+    This made it feel like solving a research problem, in that all the contraints weren't clear from the start.
+- MAT1841: Mathematics of Massive Data Analysis ([*Yun William Yu*](https://yunwilliamyu.net/content/))
+    - This was a small seminar class I took. It covered a bunch of different disciplines that have cool math as a foundation for methods they used to process large amounts of data.
+    This course was a lot of fun, and very challenging. We covered such a wide breadth of mathematical areas, many of which I was surprised had practical applications.
+- MAT1850: Linear Algebra and Optimization ([*Mary Pugh*](http://www.math.toronto.edu/mpugh/))
+    - This course taught me a lot of math I've seen in ML papers, but hadn't deeply understood until now.
+    It goes beyond what you learn in standard undergraduate linear algebra courses, and gives you a basic foundation in optimization.
+- CSC495: Research Project in Computer Science ([*Roger Grosse*](https://www.cs.toronto.edu/~rgrosse/))
+    - This course allowed me to do a research project for course credit. 
+    I worked with Guodong Zhang, Vardan Papyan, and Roger Grosse on a project related to [KFAC](https://arxiv.org/abs/1503.05671).
+    This was a fun project because it tied math and code together very closely. 
+    There were many times we had to do some math to properly understand the result of an experiment, or develop a new hypothesis.
+- CSC2321: Matrix Calculations ([*Christina Christara*](https://www.cs.toronto.edu/~ccc/))
+    - This was a numerical methods course. I wrote more MATLAB code for this course than I ever wrote before.
+    I learned that you can precisely test the correctness of a numerical method implementation.
+    It's very easy to write buggy numerical code that still converges most of the time, and this course taught me how to find those subtle bugs.
+    The professor listed a bunch of numerical methods textbooks for this course, and it was really cool reading through them and finding cool and very useful tricks that 
+    you really wouldn't be able to find anywhere else online.
+- CSC369: Operating Systems ([*Angela Demke Brown*](https://www.cs.toronto.edu/~demke/))
+    - I really enjoyed this course. It was fascinating to hear about all the engineering tricks that go into making various parts of the OS work.
+    The assignments were essentially just large C-programming assignments; it was a lot of fun writing a lot of code, and making it as clean as possible so that it was easy to debug.
+    We used [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/) for this course, which is the most engaging textbook I've ever read.
+- CSC317: Computer Graphics ([*David Levin*](http://142.93.146.228/researchdb/))
+    - This was the best organized course I've taken. The assignments were a lot of fun because they involved writing code to make a pretty picture at the end.
+    The assignments taught me to break down a large task into manageable parts, each of which could be tested on its own.
+- MAT363: Curves and Surfaces ([*Alexander Nabutovsky*](http://www.math.toronto.edu/nabutovsky/))
+    - I took this course purely for fun. I hadn't done any pure math courses in a while, so this was a nice change of pace.
+- STA261: Probability and Statistics II ([*Mohammad Kaviul Anam Khan*](https://www.statistics.utoronto.ca/people/directories/all-faculty/mohammad-kaviul-anam-khan))
+    - This course was extremely useful, and I wish I'd found the time to take it sooner. 
+    We learned about hypothesis testing, and frequentist statistics more broadly, which is something that had been sorely lacking in my toolkit until this course.
+
 ### Third Year
 - STA347: Probability
 ([*David Brenner*](https://www.statistics.utoronto.ca/people/directories/all-faculty/david-brenner))
@@ -119,7 +155,7 @@ tags: misc
     - These lectures were amazing. I learned some new words in this course. It's also the first time
     I heard someone refer to "law" as "The Law", which makes it sound way cooler.
     - One thing I learned about was the difference between [positive freedom](https://en.wikipedia.org/wiki/Positive_liberty) and [negative freedom](https://en.wikipedia.org/wiki/Negative_liberty).
-- CSC494: Project in Computer Science
+- CSC494: Research Project in Computer Science
     ([*David Duvenaud*](http://www.cs.toronto.edu/~duvenaud/))
     - This was a chance for me to do research for course credit. It gave me the extra time I needed to build
     a lot of necessary fundamental technical skills for running experiments. Eventually the work for this
