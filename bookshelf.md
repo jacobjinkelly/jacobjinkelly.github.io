@@ -16,13 +16,13 @@ Some other reading lists I admire:
 
 ### 2022
 
-**Tiger Woods**, Armen Keteyian and Jeff Benedict
-
-**The Big Short**, Michael Lewis
+**Never Let Me Go**, Kazuo Ishiguro
 
 **The Hobbit**, J. R. R. Tolkien
 
-**Never Let Me Go**, Kazuo Ishiguro
+**The Big Short**, Michael Lewis
+
+**Tiger Woods**, Armen Keteyian and Jeff Benedict
 
 ### 2021
 
